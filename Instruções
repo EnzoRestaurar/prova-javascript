@@ -1,0 +1,28 @@
+Instruções:
+
+-	Esta prova consiste em questões sobre conceitos de Funções, Vetores e Loops em JavaScript.
+-	Leia atentamente cada pergunta antes de responder.
+-	Procure utilizar a sintaxe correta da linguagem.
+-	É importante escrever o código completo das funções e loops quando solicitado.
+-	A prova deve ser respondida individualmente e sem auxílio de colegas ou recursos externos.
+-	A duração total da prova é de 60 minutos.
+
+Boa sorte!
+
+Questão 1:
+Escreva um loop que exiba todos os números de 0 a 15.
+
+Questão 2:
+Escreva um loop que preencha um vetor com os números de 1 a 10.
+
+Questão 3:
+Escreva um loop que some todos os números de um vetor de 10 posições e diga qual a soma
+
+Questão 4:
+Escreva uma função chamada "avaliaIdade" que receba a idade de uma pessoa e exiba na tela se ela é maior ou menor de idade
+
+Questão 5:
+Escreva uma função chamada "somaVetor" que receba um vetor de 5 números como parâmetro e retorne a soma de todos os elementos do vetor.
+
+Questão 6 (Bônus):
+Escreva uma função chamada "encontraMenor" que receba um vetor de 5 números como parâmetro e retorne o menor número presente nele.
