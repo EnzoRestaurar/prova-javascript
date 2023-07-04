@@ -1,5 +1,6 @@
 function somaVetor(meuVetor){
-	//SEU CÓDIGO AQUI....
+	var soma = parseInt(meuVetor) + parseInt(meuVetor)
+	return soma
 }
 
 var vetor1 = [3, 5, 7, 10, 4];
